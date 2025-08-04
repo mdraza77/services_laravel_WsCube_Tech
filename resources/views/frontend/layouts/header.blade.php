@@ -14,7 +14,7 @@
         <!-- Logo/Brand Name -->
         <div class="text-white text-2xl font-bold rounded-md">
             <a href="{{ url('/')}}">
-                Developer Raza
+                Developer Md Raza
             </a>
         </div>
 
